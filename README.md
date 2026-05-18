@@ -1,5 +1,6 @@
 # 🔥 Company Wise Leetcode Problems 🔥
-
+Download the CSV file and use this to create a sheet of your own
+https://csv-reader-fawn.vercel.app/
 This repo is for real G's tryna grind LeetCode like a boss. Got all the top companies' interview problems sorted out so you can practice smart, not hard. 💯
 
 ## 📁 Companies Covered
